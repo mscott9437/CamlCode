@@ -614,3 +614,8 @@ The goal is semantic software evolution.
 > **The repository is no longer the source of truth.**
 >
 > **The semantic runtime is.**
+---
+
+# 📜 License
+
+GNU Affero General Public License (AGPL)
