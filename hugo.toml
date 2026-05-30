@@ -1,0 +1,6 @@
+baseURL = 'https://mscott9437.github.io/camlcode/'
+title = 'CamlCode Runtime'
+
+[languages]
+  [languages.en]
+    label = 'English'
